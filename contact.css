@@ -1,0 +1,133 @@
+footer {
+    height: 4vw;
+    background-color: #ffc581;
+}
+
+header {
+    background-color: #ffc581;
+    height: 6vw;
+  
+  }
+  
+  .logo {
+      height: 6vw;
+      width: 6vw;
+      float: left;
+      padding-left:5px;
+  }
+
+  .logo:hover {
+    border: 3px solid #0d6efd;;
+  }
+  
+  #ulnav {
+    justify-content:space-evenly;
+    padding-top: 1.5vw;
+    font-size:2vw;
+  }
+  
+   .nav-link {
+      color: black;
+      font-family: Helvetica;
+   }
+ 
+  
+  ul {
+      padding: 5px;
+      font-size: 40px;
+  }
+  
+  .nav-link:hover {
+    color:#0d6efd;
+    font-weight: 600;
+  }
+
+.bg {
+    opacity:0.6;
+    width:100%;
+   }
+
+#Contact{
+    font-weight: bold;
+}
+
+.container {
+    position: relative;
+    text-align: right;
+}
+
+.map {
+    position: absolute;
+    top: 78%;
+    left: 72%;
+    transform: translate(-50%, -50%);
+  }
+
+.Address {
+    position: absolute;
+     top: 452px;
+    left: 65px;
+}
+
+.Phone {
+    position: absolute;
+     top: 662px;
+    left: 65px;
+}
+
+.Email {
+    position: absolute;
+     top: 862px;
+    left: 65px;
+}
+
+.text {
+    font-weight: bold;
+    font-size: 27px;
+}
+
+.heading {
+    position: absolute;
+    top: 39%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: "Great Vibes", cursive;
+    font-size: 90px;
+    font-weight: bold;
+  }
+
+  .text-block {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(255,216,173,0.7);
+    border-style: solid;
+    border-color: #FFD8AD;
+    border-width: 1px;
+    border-radius: 25px;
+    color: black;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 1px;
+  }
+
+  .text-block2 {
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(255,216,173,0.7);
+    border-style: solid;
+    border-color: #FFD8AD;
+    border-width: 1px;
+    border-radius: 25px;
+    color: black;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+
+
+   
